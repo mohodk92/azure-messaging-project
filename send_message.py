@@ -1,6 +1,6 @@
 rom azure.servicebus import ServiceBusClient, ServiceBusMessage
 
-conn_str = "cloudnautic-messaging-func-dcfbdrcffcbhggf2.canadacentral-01.azurewebsites.net"
+conn_str = "Endpoint=sb://cloudnautic-messaging-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=DOT0qI/T5xWRd+I//vnFy1ZizKhcnpGnT+ASbPm670A="
 queue_name = "orders-queue"
 
 with ServiceBusClient.from_connection_string(conn_str) as client:
