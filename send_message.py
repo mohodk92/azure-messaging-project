@@ -1,6 +1,6 @@
 from azure.servicebus import ServiceBusClient, ServiceBusMessage
 
-conn_str = "Endpoint=sb://cloudnautic-messaging-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=DOT0qI/T5xWRd+I//vnFy1ZizKhcnpGnT+ASbPm670A="
+conn_str = "Endpoint=sb://cloudnautic-messaging-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=BmIYm6Cvhk0hKt8DKkJzG9GuhDa8dGJJ7+ASbCHCT6U="
 queue_name = "orders-queue"
 
 with ServiceBusClient.from_connection_string(conn_str) as client:
