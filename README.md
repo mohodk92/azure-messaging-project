@@ -1,5 +1,4 @@
-Got it 👍
-You want an **Azure Messaging Project**. Since you’ve built AWS CloudWatch, RDS, DynamoDB, and Route53 projects before, I’ll frame this Azure project in the same way: a **hands-on end-to-end setup** with code, deployment steps, and explanations.
+**Azure Messaging Project**. Since you’ve built AWS CloudWatch, RDS, DynamoDB, and Route53 projects before, I’ll frame this Azure project in the same way: a **hands-on end-to-end setup** with code, deployment steps, and explanations.
 
 ---
 
@@ -169,5 +168,3 @@ azure-messaging-project/
 ```
 
 ---
-
-👉 Atul, do you want me to make a **full GitHub-ready repo** (with `README.md`, diagrams, CLI + Terraform + Python code) like we did for your **AWS CloudWatch/Route53 projects** so you can directly push it under `azure-messaging-project`?
