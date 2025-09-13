@@ -3,6 +3,6 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "ServiceBusConnection": "Endpoint=sb://cloudnautic-messaging-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=DOT0qI/T5xWRd+I//vnFy1ZizKhcnpGnT+ASbPm670A="
+    "ServiceBusConnection": "Endpoint=sb://cloudnautic-messaging-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=BmIYm6Cvhk0hKt8DKkJzG9GuhDa8dGJJ7+ASbCHCT6U="
   }
 }
